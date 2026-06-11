@@ -2,7 +2,7 @@
 
 **Objective:** Fix and improve the functions so that all test cases pass.
 
-## Instructions
+## 📖 Instructions
 
 1. Install the `jest` package by running:
 
@@ -25,8 +25,8 @@
    npm test -- --verbose
    ```
 
-## Commits
+## 💾 Commits
 
-Make sure to commit after working on an exercise. **DO NOT** commit all your changes all at once!
+Make sure to commit after working on an exercise. **DO NOT** commit your changes all at once!
 
 Good luck and thank you for being amazing students! 💪🏻🎉🧑🏻‍🏫
